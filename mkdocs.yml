@@ -1,7 +1,7 @@
 site_name: newdocs
 theme:
   name: null
-  custom_dir: docs
+  custom_dir: .
 
   # 404 page
   static_templates:
